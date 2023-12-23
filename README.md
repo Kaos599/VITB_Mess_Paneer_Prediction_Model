@@ -1,4 +1,4 @@
-# Paneer Predictor
+# Paneer Prediction Model For VIT BHOPAL
 This is a machine learning model that predicts the amount of paneer (cottage cheese) provided in the hostel mess based on various factors, such as the number of students, the day of the week, the season, and the availability of other dishes. The model aims to help the hostel management plan the menu and budget accordingly, as well as to reduce food waste and improve student satisfaction.
 
 ## Data
